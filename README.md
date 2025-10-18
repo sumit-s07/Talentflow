@@ -1,10 +1,6 @@
 
 TalentFlow is a mini hiring platform built with React that enables HR teams to manage jobs, candidates, and assessments—all without a backend. It supports drag-and-drop reordering, virtualized lists, live assessment previews, and offline persistence using IndexedDB.
 
- Usage Tutorial 
- YouTube Link:[Watch Tutorial – Mini Hiring Manager Platform](https://youtu.be/AP5C3zZmbfQ)
-
-
  Deployed Link :
 [Live App – TalentFlow](https://talentflow-nine.vercel.app/)
 
